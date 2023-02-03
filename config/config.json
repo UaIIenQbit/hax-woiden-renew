@@ -1,0 +1,33 @@
+{
+  "origin_host": "",
+  "telegramID_of_hax_or_woiden": "",
+  "password_of_hax_or_woiden": "",
+  "telegram_bot_token_to_send_result": "",
+  "telegramID_to_receive_result": "",
+  "pushplus_token_to_send_result": "",
+  "redis": {
+    "host": "",
+    "username": "",
+    "password": "",
+    "port": ""
+  },
+  "asr_choice": "",
+  "asr_tencent": {
+    "secret_id": "",
+    "secret_key": ""
+  },
+  "asr_ibm": {
+    "ibm_url": "",
+    "ibm_key": ""
+  },
+  "asr_baidu": {
+    "app_id": "",
+    "api_key": "",
+    "secret_key": ""
+  },
+  "asr_azure": {
+    "key": "",
+    "region": ""
+  },
+  "twoCaptcha_api_key": ""
+}
